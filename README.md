@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on (coming soon)
 - 📫 How to reach me florian.zeug@outlook.de
 - 😄 Pronouns: He/him/his
-- 🌍 My site floanto.github.io/website/ (nothing there yet)
+- 🌍 My site floanto.de (nothing there yet)
  
 
 <!---
