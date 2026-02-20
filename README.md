@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @FloAnto
-- 👀 I’m interested in learning Arduino/ Python programing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on (coming soon)
-- 📫 How to reach me florian.zeug@outlook.de
 - 😄 Pronouns: He/him/his
-- 🌍 My site floanto.de (nothing there yet)
+
  
 
 <!---
